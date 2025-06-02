@@ -73,3 +73,8 @@ The app will run at: `http://localhost:5173/`
 Open `ML_model.ipynb` using Jupyter Notebook or Google Colab.
 
 ---
+
+### **Author**  
+👤 **Priya Sah**  
+📧 Email: priyasah3005@gmail.com  
+🔗 GitHub: [github.com/PRIYA300705](https://github.com/PRIYA300705) 
