@@ -1,4 +1,4 @@
-# The Good Gleen - Team Zenesis
+# The Good Gleen
 
 A web application for connecting **Farmers**, **Retailers**, and **NGOs** with an intelligent matching system and a secure authentication flow.
 
